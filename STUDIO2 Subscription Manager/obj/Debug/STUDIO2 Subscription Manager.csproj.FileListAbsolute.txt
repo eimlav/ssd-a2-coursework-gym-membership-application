@@ -1,0 +1,165 @@
+D:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\bin\Debug\STUDIO2 Subscription Manager.exe.config
+D:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\bin\Debug\STUDIO2 Subscription Manager.exe
+D:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\bin\Debug\STUDIO2 Subscription Manager.pdb
+D:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.csprojResolveAssemblyReference.cache
+D:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Properties.Resources.resources
+D:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.csproj.GenerateResource.Cache
+D:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.exe
+D:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.pdb
+D:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Analytics.resources
+D:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Start.resources
+D:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Members.resources
+G:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\bin\Debug\STUDIO2 Subscription Manager.exe.config
+G:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.exe
+G:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.pdb
+G:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\bin\Debug\STUDIO2 Subscription Manager.exe
+G:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\bin\Debug\STUDIO2 Subscription Manager.pdb
+G:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.csprojResolveAssemblyReference.cache
+G:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Analytics.resources
+G:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Members.resources
+G:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Start.resources
+G:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Properties.Resources.resources
+G:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.csproj.GenerateResource.Cache
+G:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Invoices.resources
+G:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Subscriptions.resources
+D:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Invoices.resources
+D:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Subscriptions.resources
+G:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager - Copy\STUDIO2 Subscription Manager\bin\Debug\STUDIO2 Subscription Manager.exe.config
+G:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager - Copy\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.exe
+G:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager - Copy\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.pdb
+G:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager - Copy\STUDIO2 Subscription Manager\bin\Debug\STUDIO2 Subscription Manager.exe
+G:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager - Copy\STUDIO2 Subscription Manager\bin\Debug\STUDIO2 Subscription Manager.pdb
+G:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager - Copy\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.csprojResolveAssemblyReference.cache
+G:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager - Copy\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Analytics.resources
+G:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager - Copy\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Invoices.resources
+G:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager - Copy\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Members.resources
+G:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager - Copy\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Start.resources
+G:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager - Copy\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Properties.Resources.resources
+G:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager - Copy\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Subscriptions.resources
+G:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager - Copy\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.csproj.GenerateResource.Cache
+D:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\RdlCompile.cache
+D:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\RdlCompile.compiled
+G:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager 03042016 - Copy\STUDIO2 Subscription Manager\bin\Debug\STUDIO2 Subscription Manager.exe.config
+G:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager 03042016 - Copy\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.exe
+G:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager 03042016 - Copy\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.pdb
+G:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager 03042016 - Copy\STUDIO2 Subscription Manager\bin\Debug\STUDIO2 Subscription Manager.exe
+G:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager 03042016 - Copy\STUDIO2 Subscription Manager\bin\Debug\STUDIO2 Subscription Manager.pdb
+G:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager 03042016 - Copy\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.csprojResolveAssemblyReference.cache
+G:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager 03042016 - Copy\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Analytics.resources
+G:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager 03042016 - Copy\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Invoices.resources
+G:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager 03042016 - Copy\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Members.resources
+G:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager 03042016 - Copy\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Start.resources
+G:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager 03042016 - Copy\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Properties.Resources.resources
+G:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager 03042016 - Copy\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Subscriptions.resources
+G:\Software\A2\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager 03042016 - Copy\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.csproj.GenerateResource.Cache
+G:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\bin\Debug\STUDIO2 Subscription Manager.exe.config
+G:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.exe
+G:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.pdb
+G:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\bin\Debug\STUDIO2 Subscription Manager.exe
+G:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\bin\Debug\STUDIO2 Subscription Manager.pdb
+G:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.csprojResolveAssemblyReference.cache
+G:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Analytics.resources
+G:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Invoices.resources
+G:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Members.resources
+G:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Start.resources
+G:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Properties.Resources.resources
+G:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Subscriptions.resources
+G:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.csproj.GenerateResource.Cache
+D:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\bin\Debug\STUDIO2 Subscription Manager.exe.config
+D:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.exe
+D:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.pdb
+D:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\bin\Debug\STUDIO2 Subscription Manager.exe
+D:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\bin\Debug\STUDIO2 Subscription Manager.pdb
+D:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.csprojResolveAssemblyReference.cache
+D:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Analytics.resources
+D:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Invoices.resources
+D:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Members.resources
+D:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Start.resources
+D:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Properties.Resources.resources
+D:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Subscriptions.resources
+D:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.csproj.GenerateResource.Cache
+D:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\RdlCompile.cache
+D:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\RdlCompile.compiled
+D:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\bin\Debug\STUDIO2 Subscription Manager.exe.config
+D:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.exe
+D:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.pdb
+D:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\bin\Debug\STUDIO2 Subscription Manager.exe
+D:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\bin\Debug\STUDIO2 Subscription Manager.pdb
+D:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.csprojResolveAssemblyReference.cache
+D:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Analytics.resources
+D:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Invoices.resources
+D:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Members.resources
+D:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Start.resources
+D:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Properties.Resources.resources
+D:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Subscriptions.resources
+D:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.csproj.GenerateResource.Cache
+D:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\RdlCompile.cache
+D:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\RdlCompile.compiled
+G:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\bin\Debug\STUDIO2 Subscription Manager.exe.config
+G:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.exe
+G:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.pdb
+G:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\bin\Debug\STUDIO2 Subscription Manager.exe
+G:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\bin\Debug\STUDIO2 Subscription Manager.pdb
+G:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.csprojResolveAssemblyReference.cache
+G:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Analytics.resources
+G:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Invoices.resources
+G:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Members.resources
+G:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Start.resources
+G:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Properties.Resources.resources
+G:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Subscriptions.resources
+G:\Software\A2\A2 Coursework\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.csproj.GenerateResource.Cache
+D:\Software\A2\A2 Coursework FINAL\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\bin\Debug\STUDIO2 Subscription Manager.exe.config
+D:\Software\A2\A2 Coursework FINAL\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.exe
+D:\Software\A2\A2 Coursework FINAL\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.pdb
+D:\Software\A2\A2 Coursework FINAL\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\bin\Debug\STUDIO2 Subscription Manager.exe
+D:\Software\A2\A2 Coursework FINAL\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\bin\Debug\STUDIO2 Subscription Manager.pdb
+D:\Software\A2\A2 Coursework FINAL\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.csprojResolveAssemblyReference.cache
+D:\Software\A2\A2 Coursework FINAL\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Analytics.resources
+D:\Software\A2\A2 Coursework FINAL\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Invoices.resources
+D:\Software\A2\A2 Coursework FINAL\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Members.resources
+D:\Software\A2\A2 Coursework FINAL\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Start.resources
+D:\Software\A2\A2 Coursework FINAL\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Properties.Resources.resources
+D:\Software\A2\A2 Coursework FINAL\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Subscriptions.resources
+D:\Software\A2\A2 Coursework FINAL\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.csproj.GenerateResource.Cache
+D:\Software\A2\A2 Coursework FINAL\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\RdlCompile.cache
+D:\Software\A2\A2 Coursework FINAL\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\RdlCompile.compiled
+G:\Software\A2\A2 Coursework FINAL\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\bin\Debug\STUDIO2 Subscription Manager.exe.config
+G:\Software\A2\A2 Coursework FINAL\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.exe
+G:\Software\A2\A2 Coursework FINAL\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.pdb
+G:\Software\A2\A2 Coursework FINAL\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\bin\Debug\STUDIO2 Subscription Manager.exe
+G:\Software\A2\A2 Coursework FINAL\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\bin\Debug\STUDIO2 Subscription Manager.pdb
+G:\Software\A2\A2 Coursework FINAL\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.csprojResolveAssemblyReference.cache
+G:\Software\A2\A2 Coursework FINAL\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Analytics.resources
+G:\Software\A2\A2 Coursework FINAL\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Invoices.resources
+G:\Software\A2\A2 Coursework FINAL\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Members.resources
+G:\Software\A2\A2 Coursework FINAL\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Start.resources
+G:\Software\A2\A2 Coursework FINAL\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Properties.Resources.resources
+G:\Software\A2\A2 Coursework FINAL\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Subscriptions.resources
+G:\Software\A2\A2 Coursework FINAL\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.csproj.GenerateResource.Cache
+G:\Software\A2\A2 Coursework FINAL - Copy\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\bin\Debug\STUDIO2 Subscription Manager.exe.config
+G:\Software\A2\A2 Coursework FINAL - Copy\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.exe
+G:\Software\A2\A2 Coursework FINAL - Copy\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.pdb
+G:\Software\A2\A2 Coursework FINAL - Copy\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\bin\Debug\STUDIO2 Subscription Manager.exe
+G:\Software\A2\A2 Coursework FINAL - Copy\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\bin\Debug\STUDIO2 Subscription Manager.pdb
+G:\Software\A2\A2 Coursework FINAL - Copy\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.csprojResolveAssemblyReference.cache
+G:\Software\A2\A2 Coursework FINAL - Copy\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Analytics.resources
+G:\Software\A2\A2 Coursework FINAL - Copy\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Invoices.resources
+G:\Software\A2\A2 Coursework FINAL - Copy\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Members.resources
+G:\Software\A2\A2 Coursework FINAL - Copy\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Start.resources
+G:\Software\A2\A2 Coursework FINAL - Copy\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Properties.Resources.resources
+G:\Software\A2\A2 Coursework FINAL - Copy\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Subscriptions.resources
+G:\Software\A2\A2 Coursework FINAL - Copy\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.csproj.GenerateResource.Cache
+C:\Users\Eimhin\Documents\Visual Studio 2017\Projects\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.csprojResolveAssemblyReference.cache
+C:\Users\Eimhin\Documents\Visual Studio 2017\Projects\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Analytics.resources
+C:\Users\Eimhin\Documents\Visual Studio 2017\Projects\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Invoices.resources
+C:\Users\Eimhin\Documents\Visual Studio 2017\Projects\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Members.resources
+C:\Users\Eimhin\Documents\Visual Studio 2017\Projects\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Start.resources
+C:\Users\Eimhin\Documents\Visual Studio 2017\Projects\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Properties.Resources.resources
+C:\Users\Eimhin\Documents\Visual Studio 2017\Projects\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2_Subscription_Manager.Subscriptions.resources
+C:\Users\Eimhin\Documents\Visual Studio 2017\Projects\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.csproj.GenerateResource.Cache
+C:\Users\Eimhin\Documents\Visual Studio 2017\Projects\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.csproj.CoreCompileInputs.cache
+C:\Users\Eimhin\Documents\Visual Studio 2017\Projects\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.exe
+C:\Users\Eimhin\Documents\Visual Studio 2017\Projects\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\obj\Debug\STUDIO2 Subscription Manager.pdb
+C:\Users\Eimhin\Documents\Visual Studio 2017\Projects\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\bin\Debug\STUDIO2 Subscription Manager.exe.config
+C:\Users\Eimhin\Documents\Visual Studio 2017\Projects\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\bin\Debug\STUDIO2 Subscription Manager.exe
+C:\Users\Eimhin\Documents\Visual Studio 2017\Projects\STUDIO2 Subscription Manager\STUDIO2 Subscription Manager\bin\Debug\STUDIO2 Subscription Manager.pdb
